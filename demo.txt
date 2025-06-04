@@ -1,2 +1,6 @@
 text
 Первая строка.
+text
+Изменение в conflict-branch.
+text
+Изменение в main.
